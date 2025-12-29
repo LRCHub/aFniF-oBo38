@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リビエラベイベー",
+  "base_artist": "林 和希",
+  "createdAt": "2025-12-29T11:01:47.955003Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リビエラベイベー",
+      "artist": "林和希",
+      "has_synced": false,
+      "path": "select/pl_01_リビエラベイベー_林和希.txt"
+    }
+  ]
+}
